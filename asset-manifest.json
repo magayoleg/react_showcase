@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_showcase/static/css/main.b11ded44.css",
+    "main.js": "/react_showcase/static/js/main.d25b7e65.js",
+    "index.html": "/react_showcase/index.html",
+    "main.b11ded44.css.map": "/react_showcase/static/css/main.b11ded44.css.map",
+    "main.d25b7e65.js.map": "/react_showcase/static/js/main.d25b7e65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b11ded44.css",
+    "static/js/main.d25b7e65.js"
+  ]
+}
